@@ -66,8 +66,8 @@ L’interface suit une charte moderne orientée SaaS.
 
 ## 🚀 Installation & Utilisation
 
-### 🔧 Backend
-```bash
+##🔧 Backend
+
 cd backend
 mvn spring-boot:run
 
@@ -104,11 +104,9 @@ Tests E2E (Postman)
 
 Tests UI (Cypress)
 
----
 
 # 🔥 2️⃣ **docs/overview.md**
 
-```md
 # 🧾 Présentation générale du projet
 
 L’application de recouvrement digitalise totalement le suivi des factures impayées et le travail des agents de recouvrement.
