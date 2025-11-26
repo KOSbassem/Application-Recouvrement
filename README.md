@@ -1,5 +1,5 @@
 # 📌 Application de Recouvrement  
-*Documentation officielle du projet — version publique*
+*Documentation officielle du projet *
 
 L’application de recouvrement permet aux entreprises de suivre les factures impayées, automatiser les relances, gérer les paiements, et analyser la performance des agents de recouvrement.
 
